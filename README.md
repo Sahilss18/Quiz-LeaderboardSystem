@@ -110,6 +110,11 @@ Total Score: 835
 ```
 
 ---
+##Execution Output
+<img width="1033" height="771" alt="Image" src="https://github.com/user-attachments/assets/ef9afb82-0680-4704-8c15-69f2cfa60e42" />
+
+<img width="831" height="756" alt="Image" src="https://github.com/user-attachments/assets/d624fc77-05f0-431d-b9da-1ca588f812c3" />
+---
 
 ## Challenges Faced
 
